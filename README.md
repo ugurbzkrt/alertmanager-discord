@@ -1,5 +1,7 @@
 # Alertmanager Discord
 
+go mod init mypackage/myapp
+
 # Environment configuration variables:
 
 DISCORD_WEBHOOK - webhook, where to post alerts. For more details see: https://support.discordapp.com/hc/en-us/articles/228383668-Intro-to-Webhooks
