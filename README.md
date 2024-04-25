@@ -2,10 +2,9 @@
 
 # Environment configuration variables:
 
-```
 DISCORD_WEBHOOK - webhook, where to post alerts. For more details see: https://support.discordapp.com/hc/en-us/articles/228383668-Intro-to-Webhooks
 DISCORD_NAME - bot name at Discord. Default AlertManager.
-```
+
 
 # Example Prometheus Alertmanager config:
 
