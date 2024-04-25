@@ -1,6 +1,14 @@
 # Alertmanager Discord
 
-go mod init mypackage/myapp
+```
+$ go mod init mypackage/myapp
+```
+
+## This image is Ready
+
+```
+$ docker pull ugurbzkrt/alertmanager-discord
+```
 
 # Environment configuration variables:
 
